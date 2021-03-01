@@ -1,2 +1,3 @@
 # hello_world
-test
+
+Hier stehen alle Infos über den Code!
